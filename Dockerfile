@@ -1,4 +1,4 @@
-FROM	ubuntu:trusty
+FROM	ubuntu:utopic
 MAINTAINER	kload "kload@kload.fr"
 
 RUN LC_ALL=C DEBIAN_FRONTEND=noninteractive \
